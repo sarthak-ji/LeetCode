@@ -6,18 +6,19 @@ public:
         unordered_map<int, int> mp1;
         unordered_map<int, int> mp2;
 
-
-        for(int i=0; i<n1; i++){
+        for (int i = 0; i < n1; i++) {
             mp1[nums1[i]]++;
         }
-        for(int i=0; i<n2; i++){
+        for (int i = 0; i < n2; i++) {
             mp2[nums2[i]]++;
         }
 
         vector<int> res;
-        for(auto &it : mp1){
-            if(it.second > 0 && mp2[it.first] > 0){
-                res.push_back(it.first);
+        for (auto& it : mp1) {
+            int num = it.first;
+
+            if (mp2.find(num) != mp2.end()) {
+                res.push_back(num);
             }
         }
         return res;
