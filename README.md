@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sarthak-ji/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0739-daily-temperatures](https://github.com/sarthak-ji/LeetCode/tree/master/0739-daily-temperatures) |
+| [0946-validate-stack-sequences](https://github.com/sarthak-ji/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sarthak-ji/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sarthak-ji/LeetCode/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/sarthak-ji/LeetCode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/sarthak-ji/LeetCode/tree/master/0901-online-stock-span) |
+| [0946-validate-stack-sequences](https://github.com/sarthak-ji/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sarthak-ji/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/sarthak-ji/LeetCode/tree/master/0901-online-stock-span) |
+## Simulation
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/sarthak-ji/LeetCode/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
