@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sarthak-ji/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [3875-construct-uniform-parity-array-i](https://github.com/sarthak-ji/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sarthak-ji/LeetCode/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/sarthak-ji/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
