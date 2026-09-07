@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/sarthak-ji/LeetCode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sarthak-ji/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Design
 |  |
@@ -62,4 +63,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/sarthak-ji/LeetCode/tree/master/0946-validate-stack-sequences) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/sarthak-ji/LeetCode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 <!---LeetCode Topics End-->
