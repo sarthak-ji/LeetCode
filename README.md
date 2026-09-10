@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sarthak-ji/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/sarthak-ji/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0739-daily-temperatures](https://github.com/sarthak-ji/LeetCode/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/sarthak-ji/LeetCode/tree/master/0946-validate-stack-sequences) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sarthak-ji/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/sarthak-ji/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sarthak-ji/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/sarthak-ji/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
