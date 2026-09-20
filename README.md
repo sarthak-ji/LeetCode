@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sarthak-ji/LeetCode/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sarthak-ji/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/sarthak-ji/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/sarthak-ji/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/sarthak-ji/LeetCode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3498-reverse-degree-of-a-string](https://github.com/sarthak-ji/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
 |  |
 | ------- |
