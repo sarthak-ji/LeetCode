@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/sarthak-ji/LeetCode/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/sarthak-ji/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarthak-ji/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sarthak-ji/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sarthak-ji/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/sarthak-ji/LeetCode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sarthak-ji/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sarthak-ji/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Design
 |  |
